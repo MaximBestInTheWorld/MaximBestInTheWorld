@@ -2,12 +2,11 @@
 
 ## Привет, меня зовут Максим Клочко и я Frontend разработчик 👋
 
-### Мои проекты:
+<img align="right" src="https://github.com/user-attachments/assets/47c8f60b-3d0c-4658-abce-fec56794d845">
 
+### Мои проекты:
 - Github: https://github.com/MaximBestInTheWorld?tab=repositories
 - Codepen: https://codepen.io/BestInTheWorld
-
-<img align="right" src="https://github.com/user-attachments/assets/47c8f60b-3d0c-4658-abce-fec56794d845">
 
 ### 🛠 Tech Stack  
 ![Static Badge](https://img.shields.io/badge/HTML-black?style=flat&logo=html5)
