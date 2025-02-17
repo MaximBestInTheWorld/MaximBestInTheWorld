@@ -2,7 +2,9 @@
 
 ## Привет, меня зовут Максим, я Frontend разработчик 👋
 
-🛠  Tech Stack
+🛠 # Tech Stack
+![Static Badge](https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript)
+
 JavaScript  React  Bootstrap
 HTML  CSS  GitHub  Visual Studio Code  
 Photoshop
