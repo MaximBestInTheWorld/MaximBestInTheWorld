@@ -20,8 +20,6 @@
   <img src="https://bobbyhadz.com/images/blog/aws-cdk-subnet-tags/thumbnail.webp" width="33%" />
 </p>
 
-| Cat pics | Dog pics |
-| ----------------------------------- | -------------
 ![cat](https://example.com/cat.png) | ![dog](https://example.com/dog.png) |
 
 <!--
