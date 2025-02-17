@@ -20,7 +20,7 @@
   <img src="https://bobbyhadz.com/images/blog/aws-cdk-subnet-tags/thumbnail.webp" width="33%" />
 </p>
 
-![cat](https://example.com/cat.png) | ![dog](https://example.com/dog.png) |
+![cat](https://example.com/cat.png)  ![dog](https://example.com/dog.png) 
 
 <!--
 **MaximBestInTheWorld/MaximBestInTheWorld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
