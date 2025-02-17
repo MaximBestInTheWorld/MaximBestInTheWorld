@@ -3,6 +3,7 @@
 ## Привет, меня зовут Максим, я Frontend разработчик 👋
 
 ### 🛠 Tech Stack  
+<p>
 ![Static Badge](https://img.shields.io/badge/HTML-black?style=flat&logo=html5)
 ![Static Badge](https://img.shields.io/badge/CSS-black?style=flat&logo=css)
 ![Static Badge](https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript)  
@@ -13,14 +14,7 @@
 ![Static Badge](https://img.shields.io/badge/Visual%20Studio%20Code%20-black?style=flat)
 
 ![Night-Coding](https://github.com/user-attachments/assets/47c8f60b-3d0c-4658-abce-fec56794d845)
-
-<p>
-  <img src="https://bobbyhadz.com/images/blog/python-print-tab/thumbnail.webp" width="33%" />
-  <img src="https://bobbyhadz.com/images/blog/what-aws-cdk-bootstrap-do/thumbnail.webp" width="33%" />
-  <img src="https://bobbyhadz.com/images/blog/aws-cdk-subnet-tags/thumbnail.webp" width="33%" />
 </p>
-
-![cat](https://example.com/cat.png)  ![dog](https://example.com/dog.png) 
 
 <!--
 **MaximBestInTheWorld/MaximBestInTheWorld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
