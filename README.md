@@ -17,7 +17,7 @@
 ![Static Badge](https://img.shields.io/badge/Photoshop-black?style=flat)
 ![Static Badge](https://img.shields.io/badge/Visual%20Studio%20Code%20-black?style=flat)  
 
-<img float="right" src="https://github.com/user-attachments/assets/47c8f60b-3d0c-4658-abce-fec56794d845">
+<img align="right" src="https://github.com/user-attachments/assets/47c8f60b-3d0c-4658-abce-fec56794d845">
 
-##### [Сертификат](https://github.com/user-attachments/files/18827841/certificate.pdf) об окончании курса Frontend разработчик в Нетологии
+#### [Сертификат](https://github.com/user-attachments/files/18827841/certificate.pdf) об окончании курса Frontend разработчик в Нетологии
 
