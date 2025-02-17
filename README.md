@@ -1,11 +1,13 @@
 ![FrontDevGit](https://github.com/user-attachments/assets/449e3d51-ad85-407f-89e2-99ab166abe6a)
 
 ## Привет, меня зовут Максим Клочко и я Frontend разработчик 👋
-
+<div>
 <img align="right" src="https://github.com/user-attachments/assets/47c8f60b-3d0c-4658-abce-fec56794d845">
+
 ### Мои проекты:
 - Github: https://github.com/MaximBestInTheWorld?tab=repositories
 - Codepen: https://codepen.io/BestInTheWorld
+</div>
 
 ### 🛠 Tech Stack  
 ![Static Badge](https://img.shields.io/badge/HTML-black?style=flat&logo=html5)
