@@ -1,6 +1,6 @@
 ![FrontDevGit](https://github.com/user-attachments/assets/449e3d51-ad85-407f-89e2-99ab166abe6a)
 
-## Привет, меня зовут Максим, я Frontend разработчик 👋
+## Привет, меня зовут Максим Клочко и я Frontend разработчик 👋
 
 ### Мои проекты:
 
@@ -16,9 +16,8 @@
 ![Static Badge](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)  
 ![Static Badge](https://img.shields.io/badge/Photoshop-black?style=flat)
 ![Static Badge](https://img.shields.io/badge/Visual%20Studio%20Code%20-black?style=flat)  
-<p float='right'>
-  ![Night-Coding](https://github.com/user-attachments/assets/47c8f60b-3d0c-4658-abce-fec56794d845)
-</p>
 
-### [Сертификат](https://github.com/user-attachments/files/18827841/certificate.pdf) об окончании курса Frontend разработчик в Нетологии
+<img align="right" src="[https://picsum.photos/100/100](https://github.com/user-attachments/assets/47c8f60b-3d0c-4658-abce-fec56794d845)">.
+
+##### [Сертификат](https://github.com/user-attachments/files/18827841/certificate.pdf) об окончании курса Frontend разработчик в Нетологии
 
