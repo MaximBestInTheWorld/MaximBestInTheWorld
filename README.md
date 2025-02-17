@@ -2,12 +2,16 @@
 
 ## Привет, меня зовут Максим, я Frontend разработчик 👋
 
-# 🛠 Tech Stack <br/>
+# 🛠 Tech Stack  
 ![Static Badge](https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript)
+![Static Badge](https://img.shields.io/badge/HTML-black?style=flat&logo=html5)
+![Static Badge](https://img.shields.io/badge/CSS-black?style=flat&logo=css)
+![Static Badge](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)
+![Static Badge](https://img.shields.io/badge/Photoshop-black?style=flat)
+![Static Badge](https://img.shields.io/badge/Visual%20Studio%20Code%20-black?style=flat)
+![Static Badge](https://img.shields.io/badge/React-black?style=flat&logo=react)
+![Static Badge](https://img.shields.io/badge/Bootstrap-black?style=flat&logo=bootstrap)
 
-JavaScript  React  Bootstrap
-HTML  CSS  GitHub  Visual Studio Code  
-Photoshop
 
 <!--
 **MaximBestInTheWorld/MaximBestInTheWorld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
