@@ -1,4 +1,4 @@
-![FrontDevGit](https://github.com/user-attachments/assets/ceb0a908-1162-4354-8b24-f8a9bf048ff4)
+![FrontDevGit](https://github.com/user-attachments/assets/449e3d51-ad85-407f-89e2-99ab166abe6a)
 
 ## Привет, меня зовут Максим, я Frontend разработчик 👋
 
