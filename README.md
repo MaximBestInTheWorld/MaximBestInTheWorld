@@ -1,3 +1,5 @@
+![FrontDevGit](https://github.com/user-attachments/assets/ceb0a908-1162-4354-8b24-f8a9bf048ff4)
+
 ## Привет, меня зовут Максим, я Frontend разработчик 👋
 
 🛠  Tech Stack
