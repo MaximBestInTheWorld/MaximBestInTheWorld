@@ -8,7 +8,8 @@
 - Codepen: https://codepen.io/BestInTheWorld
 
 ### 🛠 Tech Stack  
-<img align="right" src="https://github.com/user-attachments/assets/47c8f60b-3d0c-4658-abce-fec56794d845">  
+<img align="right" src="https://github.com/user-attachments/assets/47c8f60b-3d0c-4658-abce-fec56794d845">
+
 ![Static Badge](https://img.shields.io/badge/HTML-black?style=flat&logo=html5)
 ![Static Badge](https://img.shields.io/badge/CSS-black?style=flat&logo=css)
 ![Static Badge](https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript)  
