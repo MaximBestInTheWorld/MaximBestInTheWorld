@@ -12,6 +12,7 @@
 ![Static Badge](https://img.shields.io/badge/Photoshop-black?style=flat)
 ![Static Badge](https://img.shields.io/badge/Visual%20Studio%20Code%20-black?style=flat)
 
+![Night-Coding](https://github.com/user-attachments/assets/47c8f60b-3d0c-4658-abce-fec56794d845)
 
 <!--
 **MaximBestInTheWorld/MaximBestInTheWorld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
