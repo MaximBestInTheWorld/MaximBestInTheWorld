@@ -10,7 +10,7 @@
     - [Основы Javascript](https://github.com/MaximBestInTheWorld/Basic-JavaScript)
     - [Базовый JavaScript в браузере](https://github.com/MaximBestInTheWorld/Basic-JavaScript-in-Browser)
     - [Продвинутый JavaScript](https://github.com/MaximBestInTheWorld/Advanced-JavaScript)
-- Codepen: https://codepen.io/BestInTheWorld
+- Мои [Codepen-проекты](https://codepen.io/BestInTheWorld)
 </div>
 
 ### 🛠 Tech Stack  
