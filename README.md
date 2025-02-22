@@ -6,10 +6,10 @@
 
 ### Вот, что я умею:
 - Github: https://github.com/MaximBestInTheWorld?tab=repositories
-    Работа с GitHub: https://github.com/MaximBestInTheWorld/Work-on-GitHub
--   Основы Javascript: https://github.com/MaximBestInTheWorld/Basic-JavaScript
--     Базовый JavaScript в браузере: https://github.com/MaximBestInTheWorld/Basic-JavaScript-in-Browser
--     Продвинутый JavaScript: https://github.com/MaximBestInTheWorld/Advanced-JavaScript
+    - Работа с GitHub: https://github.com/MaximBestInTheWorld/Work-on-GitHub
+- Основы Javascript: https://github.com/MaximBestInTheWorld/Basic-JavaScript
+- Базовый JavaScript в браузере: https://github.com/MaximBestInTheWorld/Basic-JavaScript-in-Browser
+- Продвинутый JavaScript: https://github.com/MaximBestInTheWorld/Advanced-JavaScript
 - Codepen: https://codepen.io/BestInTheWorld
 </div>
 
