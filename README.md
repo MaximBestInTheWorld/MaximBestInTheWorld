@@ -5,7 +5,7 @@
 <img align="right" src="https://github.com/user-attachments/assets/47c8f60b-3d0c-4658-abce-fec56794d845">
 
 ### Вот, что я умею:
-- Мои [Github-репозитории](https://github.com/MaximBestInTheWorld?tab=repositories), а именно:
+- Мои [Github-проекты](https://github.com/MaximBestInTheWorld?tab=repositories), а именно:
     - [Работа с GitHub](https://github.com/MaximBestInTheWorld/Work-on-GitHub)
     - [Основы Javascript](https://github.com/MaximBestInTheWorld/Basic-JavaScript)
     - [Базовый JavaScript в браузере](https://github.com/MaximBestInTheWorld/Basic-JavaScript-in-Browser)
